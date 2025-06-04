@@ -75,4 +75,3 @@ Automatyzuje wszystko: VM, bucket, subskrypcje, role IAM, deploy na Cloud Run, A
 
 setup_vm.yml (Ansible)
 Konfiguruje środowisko na nowej VM
----
