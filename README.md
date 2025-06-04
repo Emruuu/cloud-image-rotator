@@ -52,6 +52,7 @@ rotation-angle domyślnie 90
 
 output-path domyślnie katalog domowy użytkownika na VM
 
+---
 🐍 Komponenty projektu
 notification_polling.py
 Subskrybuje Pub/Sub
@@ -74,3 +75,4 @@ Automatyzuje wszystko: VM, bucket, subskrypcje, role IAM, deploy na Cloud Run, A
 
 setup_vm.yml (Ansible)
 Konfiguruje środowisko na nowej VM
+---
